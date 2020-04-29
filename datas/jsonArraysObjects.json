@@ -1,0 +1,55 @@
+{ 
+"Inspirational":[
+                {
+                "title": "The Power of Habit", 
+                "author":"Charles Duhigg, Mike Chamberlain, et al.",
+                "kindle price":9.99 
+                },
+                {
+                "title": "Thinking, Fast and Slow", 
+                "author":"Daniel Kahneman, Patrick Egan, et al.",
+                "kindle price":9.99 
+                },
+                {
+                "title": "Tuesdays with Morrie", 
+                "author":"Mitch Albom",
+                "kindle price":12.99 
+                }
+                ],
+"IT":           
+                [
+                {
+                "title": "Mastering JavaScript Functional Programming", 
+                "author":"Federico Kereki",
+                "kindle price":29.19 
+                },
+                {
+                "title": "Python Crash Course", 
+                "author":"Eric Matthes",
+                "kindle price":23.99 
+                },
+                {
+                "title": "Think Like a Programmer", 
+                "author":"V. Anton Spraul",
+                "kindle price":20.99 
+                }
+                ],
+"Children's":
+                [
+                {
+                "title": "Alice in Wonderland", 
+                "author":"Carroll and Tenniel",
+                "kindle price":9.99 
+                },
+                {
+                "title": "The Neverending Story", 
+                "author":"Michael Ende, Gerard Doyle, et al",
+                "kindle price":8.99 
+                },
+                {
+                "title": "Harry Potter Paperback Box Set", 
+                "author":"J. K. Rowling and Mary GrandPre",
+                "kindle price":57.99 
+                }
+                ]
+}

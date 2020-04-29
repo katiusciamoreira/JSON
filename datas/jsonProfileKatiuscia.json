@@ -1,0 +1,14 @@
+{
+    "first-name":"Katiuscia",
+    "last-name": "Moreira",
+    "age":35,
+    "hobbies":["gym", "running", "series", "books", "videogames"],
+    "childrens":null,
+    "profession":"Forest Engineer",
+    "experience":["JavaScript","Python", "JSON", "SQL","html", "VBA","Excel","GIS", "Environmental", "Georreferencing", "RemoteSensing", "Databases"],
+    "address": {
+                    "street":"Rua das Fulanas",
+                    "state": "São Paulo",
+                    "post": 0100
+                }
+}
