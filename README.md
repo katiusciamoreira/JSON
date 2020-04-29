@@ -1,4 +1,4 @@
-# Here are the codes that I've been learning about JSON and relateds APIs to share and contributions.
+# Here are some codes that I've been learning about relateds uses of JSON to share and contributions.
 
 * A simple profile that I've created as an example by using Json types: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * A code example about Json types, by using arrays with objects: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
