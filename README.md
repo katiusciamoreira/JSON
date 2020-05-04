@@ -12,9 +12,9 @@
 P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
 
 
-[Meu Perfil no Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
-<br>
 **Obrigada! - Katiuscia Moreira**
+<br>
+[Perfil Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
 ___________________________________________________________________________________________________________________
 
 # Here are some codes that I've been learning about relateds uses of JSON format.
@@ -31,6 +31,6 @@ ________________________________________________________________________________
 P.S.: All this files are available here inside the path `/datas`.
 
 
-[My Linkedin Profile](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
-<br>
 **Thanks! - Katiuscia Moreira**
+<br>
+[Linkedin Profile](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
