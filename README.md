@@ -35,12 +35,10 @@ ________________________________________________________________________________
 * Code example by using Javascript language to <b> GET </b> a <b> JSON content FROM a PUBLIC API </b>(using a example for API CNAE from IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
  
  
-  -Code examples by using PHP programming with JSON format:
+- Code examples by using PHP programming with JSON format:
  
  * Código para converter PHP arrays para JSON: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
- 
   * Código para converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
- 
   * Código para converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
 
 P.S.: All this files are available here in my github inside the path `/datas`.
