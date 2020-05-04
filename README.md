@@ -1,4 +1,4 @@
-# Aqui estão alguns códigos para aprender a utilizar Javascript e PHP com o formato JSON.
+# Aqui estão alguns códigos para aprender a utilizar Javascript e PHP com o formato JSON
 
 -Exemplos de códigos usando linguagem HTML e JAVASCRIPT com formato JSON:
 
@@ -10,7 +10,7 @@
  
 -Exemplos de códigos usando linguagem PHP com formato JSON:
  
-* Código para converter PHP arrays para JSON: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
+* Código para converter <b> PHP arrays para JSON </b>: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
 * Código para converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
 * Código para converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
  
@@ -23,7 +23,7 @@ P.S.: Todos esses arquivos estão disponíveis aqui no meu github na pasta `/dat
 [Perfil Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
 ___________________________________________________________________________________________________________________
 
-# Here are some codes to learn how to use Javascript and Php programming with JSON format.
+# Here are some codes to learn how to use Javascript and Php programming with JSON format
 
 -Code examples by using Javascript and HTML programming with JSON format:
 
@@ -36,9 +36,9 @@ ________________________________________________________________________________
  
 -Code examples by using PHP programming with JSON format:
  
-* Código para converter PHP arrays para JSON: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
-* Código para converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
-* Código para converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
+* Code to convert <b> PHP arrays to JSON</b>: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
+* Code to convert <b> PHP arrays encoded to JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
+* Code to convert <b> JSON string to PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
 
 P.S.: All this files are available here in my github inside the path `/datas`.
 
