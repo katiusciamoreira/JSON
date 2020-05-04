@@ -10,6 +10,11 @@
  
 
 P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
+
+
+[Meu Perfil no Linkedin] (https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
+<br>
+**Obrigada! - Katiuscia Moreira**
 ___________________________________________________________________________________________________________________
 
 # Here are some codes that I've been learning about relateds uses of JSON to share and contributions.
