@@ -1,6 +1,6 @@
 # Aqui estão alguns códigos que eu tenho aprendido sobre usos relacionados com o formato JSON para compartilhar.
 
-Exemplos de códigos:
+-Exemplos de códigos:
 
 * Perfil que criei como exemplo usando tipos simples de formato Json: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * Código usando tipos de Json, com arrays e objetos: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
@@ -13,6 +13,8 @@ P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
 ___________________________________________________________________________________________________________________
 
 # Here are some codes that I've been learning about relateds uses of JSON to share and contributions.
+
+-Code examples:
 
 * Profile that I've created as an example by using simple Json format: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * Code about Json types, by using arrays with objects: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
