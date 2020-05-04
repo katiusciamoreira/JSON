@@ -12,7 +12,7 @@
 P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
 
 
-[Meu Perfil no Linkedin] (https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
+[Meu Perfil no Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
 <br>
 **Obrigada! - Katiuscia Moreira**
 ___________________________________________________________________________________________________________________
