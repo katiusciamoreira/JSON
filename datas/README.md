@@ -3,6 +3,5 @@ ________________________________________________________________________________
 # Code examples used for training
 
 
-**Thanks! - Katiuscia Moreira**
-[Linkedin Profile]<br>
-(https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
+**Thanks! - Katiuscia Moreira**<br>
+[Linkedin Profile](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
