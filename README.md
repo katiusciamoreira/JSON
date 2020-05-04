@@ -4,9 +4,9 @@
 
 * Perfil que criei como exemplo usando tipos simples de formato Json: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * Código usando tipos de Json, com arrays e objetos: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
-* Código usando linguagem Javascript para converter formato JSON para Javascript (objeto literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
-* Código usando linguagem javascript para converter Javascript em JSON: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
-* Código usando linguagem Javascript para pegar um conteúdo JSON de uma API pública (usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
+* Código usando linguagem Javascript para converter formato <b> JSON para Javascript </b> </ (objeto literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
+* Código usando linguagem javascript para converter <b> Javascript em JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
+* Código usando linguagem Javascript para pegar um conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
  
 
 P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
