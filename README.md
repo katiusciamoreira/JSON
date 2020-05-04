@@ -2,7 +2,7 @@
 
 Exemplos de códigos:
 
-* Um simples perfil que eu criei como exemplo usando tipos simples de Json: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
+* Perfil que criei como exemplo usando tipos simples de formato Json: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * Código usando tipos de Json, com arrays e objetos: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
 * Código usando linguagem Javascript para converter formato JSON para Javascript (objeto literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Código usando linguagem javascript para converter Javascript em JSON: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 # Here are some codes that I've been learning about relateds uses of JSON to share and contributions.
 
-* A simple profile that I've created as an example by using simple Json types: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
+* Profile that I've created as an example by using simple Json format: [jsonProfileKatiuscia.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonProfileKatiuscia.json)
 * Code about Json types, by using arrays with objects: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
 * Code example by using Javascript language to convert JSON to JavaScript (Object Literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Code example by using Javascript language to convert JavaScript to JSON: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
