@@ -17,7 +17,7 @@ P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
 **Obrigada! - Katiuscia Moreira**
 ___________________________________________________________________________________________________________________
 
-# Here are some codes that I've been learning about relateds uses of JSON.
+# Here are some codes that I've been learning about relateds uses of JSON format.
 
 -Code examples:
 
