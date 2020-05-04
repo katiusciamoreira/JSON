@@ -8,12 +8,11 @@
 * Código usando linguagem javascript para converter <b> Javascript em JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
 * Código usando linguagem Javascript para <b> pegar </b> um conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
  
- 
 -Exemplos de códigos usando linguagem PHP com formato JSON:
  
- * Código para converter PHP arrays para JSON: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
-  * Código para converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
-  * Código para converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
+* Código para converter PHP arrays para JSON: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
+* Código para converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
+* Código para converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
  
  
 P.S.: Todos esses arquivos estão disponíveis aqui no meu github na pasta `/datas`.
