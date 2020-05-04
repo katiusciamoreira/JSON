@@ -23,7 +23,7 @@ P.S.: Todos esses arquivos estão disponíveis aqui no meu github na pasta `/dat
 [Perfil Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
 ___________________________________________________________________________________________________________________
 
-# Here are some codes to learn how to use Javascript and Php programming with JSON format
+# Here are some codes to learn how to use Javascript and PHP programming with JSON format
 
 -Code examples by using Javascript and HTML programming with JSON format:
 
