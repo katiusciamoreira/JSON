@@ -1,3 +1,7 @@
-# Here are the data files from the codes that I've created to share and to contributions
+# Exemplos de códigos usados para treino
+________________________________________________________________________________________________________________________________
+# Code examples used for training
+
 
 **Thanks! - Katiuscia Moreira**
+[Linkedin Profile](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
