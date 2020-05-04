@@ -1,4 +1,4 @@
-# Aqui estão alguns códigos que eu tenho aprendido sobre usos relacionados com o formato JSON para compartilhar.
+# Aqui estão alguns códigos que eu tenho aprendido sobre usos relacionados com o formato JSON.
 
 -Exemplos de códigos:
 
@@ -17,7 +17,7 @@ P.S.: Todos esses arquivos estão disponíveis aqui na pasta `/datas`.
 **Obrigada! - Katiuscia Moreira**
 ___________________________________________________________________________________________________________________
 
-# Here are some codes that I've been learning about relateds uses of JSON to share and contributions.
+# Here are some codes that I've been learning about relateds uses of JSON.
 
 -Code examples:
 
