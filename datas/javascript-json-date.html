@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title> Deal with Date in JSON</title>
+<head>
+<script>
+	window.onload=function(){
+	//to convert your date in this format you can use the 'unix time stamp' convert by searching on google, after you multiply the result for 1000, to have result in miliseconds like this 458710200000
+	var jsonString='{"firstName":"Katiuscia","lastName":"Moreira","dateBirth":458710200000}';
+	// convert Json string to Javascript object literal
+	var jsObject=JSON.parse(jsonString);
+	// convert the javascript object literal in to date format
+	jsObject.dateBirth=new Date(jsObject.dateBirth);
+	alert("The birth date in jsobject format date is: "+jsObject.dateBirth);
+	//convert date to Json string format date and use slice to show just data, without time, by using the first 10 characters and use the split and reverse to put this in order and format that I want with '/'
+	var birthday=jsObject.dateBirth.toJSON().slice(0,10).split("-").reverse().join("/");
+	document.getElementById("result").innerHTML=jsObject.firstName + " " +jsObject.lastName+ " "+ "was born on "+birthday;
+    }
+</script>
+</head>
+<body>
+<div id="result" /div>
+</body>
+</html>
