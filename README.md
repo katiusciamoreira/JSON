@@ -7,7 +7,7 @@
 * Código usando linguagem Javascript para converter formato <b> JSON para Javascript </b>(objeto literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Código usando linguagem javascript para converter <b> Javascript em JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
 * Código usando linguagem Javascript para <b> pegar </b> um conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
-* Código usando linguagem Javascript para lidar com <b>Datas em JSON</b>:[javascript-json-date.html(https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
+* Código usando linguagem Javascript para lidar com <b>Datas em JSON</b>:[javascript-json-date.html](https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
  
 <b>-Exemplos de códigos usando linguagem PHP com formato JSON:</b>
  
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 * Code about Json types, by using arrays with objects: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
 * Code example by using Javascript language to convert <b> JSON to JavaScript</b> (Object Literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Code example by using Javascript language to convert <b> JavaScript to JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
-* Code example by using Javascript language to <b> GET </b> a <b> JSON content FROM a PUBLIC API </b>(using a example for API CNAE from IBGE): [get-json-from-api_CNAE.html](https://gideal with <b>JSON dates</b>:[javascript-json-date.html(https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
+* Code example by using Javascript language to <b> GET </b> a <b> JSON content FROM a PUBLIC API </b>(using a example for API CNAE from IBGE): [get-json-from-api_CNAE.html](https://gideal with <b>JSON dates</b>:[javascript-json-date.html](https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
  
  
 <b>-Code examples by using PHP programming with JSON format:</b>
