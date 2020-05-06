@@ -1,4 +1,4 @@
-# Códigos  - Treinando Javascript e PHP com o formato JSON
+# Códigos  - Javascript e PHP com o formato JSON
 
 <b>-Exemplos de códigos usando linguagem HTML e JAVASCRIPT com formato JSON:</b>
 
@@ -25,7 +25,7 @@ P.S.: Todos esses arquivos estão disponíveis aqui no meu github na pasta `/dat
 [Perfil Linkedin](https://www.linkedin.com/in/katiuscia-moreira-0026833b/)
 ___________________________________________________________________________________________________________________
 
-# Codes  - Training how to use Javascript and PHP programming with JSON format
+# Codes  - Javascript and PHP programming with JSON format
 
 <b>-Code examples by using Javascript and HTML programming with JSON format:</b>
 
