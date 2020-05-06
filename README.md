@@ -6,7 +6,7 @@
 * Json, com arrays e objetos: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
 * Converter <b> JSON para Javascript </b>(objeto literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Converter <b> Javascript em JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
-* <b>Linguagem Javascript para pegar </b> conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
+* Javascript para <b>pegar </b> conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE): [get-json-from-api_CNAE.html](https://github.com/katiusciamoreira/Json/blob/master/datas/get-json-from-api_CNAE.html)
 * Lidar com <b>Datas em JSON</b>:[javascript-json-date.html](https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
  
 <b>-Exemplos de códigos usando linguagem PHP com formato JSON:</b>
@@ -14,7 +14,7 @@
 * Converter <b> PHP arrays para JSON </b>: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
 * Converter <b> PHP arrays associativos para JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
 * Converter <b> JSON string em PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
-* <b>Linguagem PHP para pegar </b> um conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE):[json-to-php-from-api.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php-from-api.php)
+* PHP para <b>pegar </b> um conteúdo <b> JSON de uma API pública </b>(usando como exemplo a API CNAE do IBGE):[json-to-php-from-api.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php-from-api.php)
  
  
 P.S.: Todos esses arquivos estão disponíveis aqui no meu github na pasta `/datas`.
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 * Json types, by using arrays with objects: [jsonArraysObjects.json](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonArraysObjects.json)
 * Convert <b> JSON to JavaScript</b> (Object Literal): [jsonParse.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonParse.html)
 * Convert <b> JavaScript to JSON </b>: [jsonStringify.html](https://github.com/katiusciamoreira/Json/blob/master/datas/jsonStringify.html)
-* <b>Javascript to GET </b> a <b> JSON content FROM a PUBLIC API </b>(using a example for API CNAE from IBGE): [get-json-from-api_CNAE.html](https://gideal with <b>JSON dates</b>:[javascript-json-date.html](https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
+* Javascript to <b>GET </b> a <b> JSON content FROM a PUBLIC API </b>(using a example for API CNAE from IBGE): [get-json-from-api_CNAE.html](https://gideal with <b>JSON dates</b>:[javascript-json-date.html](https://github.com/katiusciamoreira/Json/blob/master/datas/javascript-json-date.html)
  
  
 <b>-Code examples by using PHP programming with JSON format:</b>
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 * Code to convert <b> PHP arrays to JSON</b>: [php-array-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-to-json.php)
 * Code to convert <b> PHP arrays encoded to JSON</b>: [php-array-assoc-to-json.php](https://github.com/katiusciamoreira/Json/blob/master/datas/php-array-assoc-to-json.php)
 * Code to convert <b> JSON string to PHP arrays </b>: [json-to-php.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php.php)
-* PHP language to <b> GET </b> a content <b> from a public JSON API </b>(using a example for API CNAE from IBGE):[json-to-php-from-api.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php-from-api.php)
+* PHP to <b> GET </b> a content <b> from a public JSON API </b>(using a example for API CNAE from IBGE):[json-to-php-from-api.php](https://github.com/katiusciamoreira/Json/blob/master/datas/json-to-php-from-api.php)
 
 P.S.: All this files are available here in my github inside the path `/datas`.
 
